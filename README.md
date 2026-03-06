@@ -12,3 +12,8 @@ This work collects my personal homemade food data and translate it into a digita
 
 # Ref
 semantic analysize model: https://huggingface.co/onnx-community/embeddinggemma-300m-ONNX
+
+# Contribute
+Yuric Yang 
+
+# More links
